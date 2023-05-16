@@ -1,0 +1,123 @@
+main{
+    .firsttabl{
+
+
+
+
+padding: 40px;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+        background-color: orangered;
+        gap: 30px;
+        
+        p{
+            color: wheat;
+            
+            }
+            .tet{
+                text-align: center;
+            }
+            .pep{
+                text-align: center;
+            }
+            button{
+                padding: 5px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 15px;
+            border: none;
+            border-radius: 16px;
+            }
+    }
+    .secondtable{
+    
+  
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pricethreediv{
+    display: flex;
+    margin-top: 50px;
+}
+.free{
+    border: 1px solid gray;
+}
+
+.writefree{
+    background-color: silver;
+}
+.signup{
+    border: 2px solid blue;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    margin-bottom: 10px;
+    color: blue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    background-color: white;
+}
+
+.pro{
+    border: 1px solid gray;
+}
+
+.writepro{
+    background-color: silver;
+}
+.classofgetstarted{
+    border: 2px solid blue;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    margin-bottom: 10px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    background-color: blue;
+}
+
+.enterprise{
+    border: 1px solid gray;
+}
+
+.writeenterprise{
+    background-color: silver;
+}
+.classofcontactuss{
+    border: 2px solid blue;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    margin-bottom: 10px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    background-color: blue;
+    }
+    
+    .book{
+        background-color: chartreuse;
+        height: 100px;
+    }
+    
+    /////////////
+    .tablfirst{
+           
+        background-color: blueviolet;
+        height: 100px;
+    }
+    .tablesecnd{
+    background-color: blue;
+    height: 100px;
+    }
+    
+    .booksecnd{
+        background-color: rgb(22, 22, 18);
+        height: 100px;
+    }
+    }
